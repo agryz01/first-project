@@ -1,0 +1,22 @@
+.page {
+    font-family: 'Cormorant Garamond';
+  }
+  .header {
+    height: 95px;
+    display: flex;
+    max-width: 1330px;
+    min-width: 1280px;
+    margin: auto;
+  }
+  
+  .header__link {
+    margin: auto;
+    font-size: 28px;
+    text-decoration: none;
+    color: #10191E;
+  }
+  
+  .project {
+    background-position: center;
+    background-size: cover;
+  }
